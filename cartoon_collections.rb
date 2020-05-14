@@ -11,7 +11,7 @@ end
 
 
 def long_planeteer_calls(planteteer_calls)
-  call.any?
+  planteteer_calls.any? 
   
 end
 

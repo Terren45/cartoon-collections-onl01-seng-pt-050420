@@ -5,7 +5,7 @@ def roll_call_dwarves(dwarves)
 end
 
 def summon_captain_planet(planteteer_calls)
-  planteteer_calls.map  do |call|
+  planteteer_calls.map {|call| cap
     puts
 end
 

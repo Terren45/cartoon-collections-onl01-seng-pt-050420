@@ -1,8 +1,6 @@
-def roll_call_dwarves(names)
-  counter = 1
-  names.each_with_index do |name, index|
-    puts #{name}, #{index+1}
-    counter =+ 1
+def roll_call_dwarves(dwarves)
+  dwarves.each_with_index do |dwarf, index|
+    puts  #{index+1}. #{dw
   end
 end
 

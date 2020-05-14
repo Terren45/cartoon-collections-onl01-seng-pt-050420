@@ -4,8 +4,8 @@ def roll_call_dwarves(dwarves)
   end
 end
 
-def summon_captain_planet(planteteer)
-  planteteer.map_with_index {plant
+def summon_captain_planet(planteteer_calls)
+  .map_with_index {plant
 end
 
 def long_planeteer_calls# code an argument here

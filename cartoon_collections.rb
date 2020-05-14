@@ -10,7 +10,8 @@ end
 
 
 
-def long_planeteer_calls(calls)
+def long_planeteer_calls(planteteer_calls)
+  call.any?
   
 end
 
